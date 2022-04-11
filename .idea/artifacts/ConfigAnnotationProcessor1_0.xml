@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ConfigAnnotationProcessor1.0">
+    <output-path>$PROJECT_DIR$/../WatchTowerGui/libs</output-path>
+    <root id="archive" name="ConfigAnnotationProcessor1.0.jar">
+      <element id="module-output" name="ConfigAnnotationProcessor" />
+    </root>
+  </artifact>
+</component>
