@@ -23,10 +23,10 @@
     <dependencies>
         <dependency>
             <groupId>ad.codeGenerator</groupId>
-            <artifactId>JavaCodeParser</artifactId>
+            <artifactId>JavaCodeGenerator</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>${basedir}/../JavaCodeParser.jar</systemPath>
+            <systemPath>${basedir}/../JavaCodeGenerator.jar</systemPath>
         </dependency>
     </dependencies>
 
