@@ -1,5 +1,5 @@
 # ConfigAnnotationProcessor
-Annotation processor to generate serialization method to .yml file 
+Annotation processor to generate serialization and deserialization methods working with .yml files 
 
 ## Auto saving and reading configurations from .yml
 ![image](https://user-images.githubusercontent.com/61599048/162846985-0ffee55b-f4c9-443c-bd50-8a3e327865d8.png)
